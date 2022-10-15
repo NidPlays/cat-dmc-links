@@ -1,0 +1,15 @@
+{
+    "name": "cat-dmc-links",
+    "version": "1.0.0",
+    "description": " List of Links for CAT DMC Team hosted on GitHub pages",
+    "main": "index.html",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "build": "pagecrypt hidden.html dist/encrypted.html catdmc2022"
+    },
+    "author": "github.com/NidPlays",
+    "license": "ISC",
+    "devDependencies": {
+        "pagecrypt": "^5.4.0"
+    }
+}

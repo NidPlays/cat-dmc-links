@@ -4,4 +4,4 @@
 
 This is an open source project that serves as a link website to CAT DMC Team
 
--   [Demo](https://dmc.h.xyz)
+-   [Site](https://dmc.nidish.xyz)
